@@ -1,0 +1,265 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "price": "499",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon Xiaomi Redmi Note 11 LTE 4/64GB Twilight Blue",
+            "quantityPerUnit": "48 - 6 oz jars",
+            "unitPrice": "24",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Xiaomi-Redmi-Note-11-LTE-twilight-Blue-n74t3gjiwmrkv8sclhzb.jpg",
+            "unitsInStock": 53
+        },
+        {
+            "id": 2,
+            "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-A03-Blue-rgz3mvkwunjociq1lsbp-300x300.jpg",
+            "price": "399",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon Samsung A12(A127) 64GB Black",
+            "quantityPerUnit": "24 - 12 oz bottles",
+            "unitPrice": "21",
+            "unitsInStock": 17
+        },
+        {
+            "id": 3,
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-Galaxy-S22-Pink-Gold-lrv6ejxq94in8h530pko-300x300.jpg",
+            "price": "2099",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon Samsung Galaxy S22 8/128GB Pink Gold",
+            "quantityPerUnit": "24 - 12 oz bottles",
+            "unitPrice": "21",
+            "unitsInStock": 17
+        },
+        {
+            "id": 4,
+            "img": "https://texnomart.az/wp-content/uploads/2022/01/texnomart-Xiaomi-Redmi-Note-11-grey-x2asqtjc4rz3hgek7f1i-600x600.jpg",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon Xiaomi Redmi Note 11 LTE 4/64GB Star",
+            "price": "599",
+            "quantityPerUnit": "48 - 6 oz jars",
+            "unitPrice": "222",
+            "unitsInStock": 53
+        },
+        {
+            "id": 5,
+            "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Samsung-A21S-Black-89xyqs1bgvzpf4ukj65l-300x300.jpg",
+            "price": "699",
+            "seoUrl": "telefonlar",
+            "productName": "  Smartfon Xiaomi Redmi Note 11 LTE 4/64GB Twilight Blue",
+            "quantityPerUnit": "36 boxes",
+            "unitPrice": "21",
+            "unitsInStock": 0
+        },
+        {
+            "id": 6,
+            "seoUrl": "telefonlar",
+            "price": "2099",
+            "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-Xiaomi-Redmi-9-Ocean-Green-bq16fxgrwn9h8mul0ap4-300x300.jpg",
+            "productName": "Smartfon Xiaomi Redmi 9 3/32GB Ocean Green",
+            "quantityPerUnit": "12 - 8 oz jars",
+            "unitPrice": 25,
+            "unitsInStock": 120
+        },
+        {
+            "id": 7,
+            "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-IPhone-13-Pro-Max-Sierra-Blue-25pi9gtq3lbyfa6z0muo-300x300.jpg",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon IPhone 13 Pro Max 128GB Sierra Blue",
+            "price": "3229",
+            "quantityPerUnit": "12 - 1 lb pkgs.",
+            "unitPrice": 30,
+            "unitsInStock": 15
+        },
+        {
+            "id": 8,
+            "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-IPhone-13-Pro-256GB-Gold-8oy6rwin5gzp3b20jf1l-300x300.jpg",
+            "seoUrl": "telefonlar",
+            "price": "3000",
+            "productName": "Smartfon IPhone 13 Pro Max 128GB Sierra Gold",
+            "quantityPerUnit": "12 - 12 oz jars",
+            "unitPrice": 40,
+            "unitsInStock": 100
+        },
+        {
+            "id": 9,
+            "img": "https://texnomart.az/wp-content/uploads/2022/02/texnomart-IPhone-13-Pro-max-graphite-g6tn83wu9yzek5fs2xh4-300x300.jpg",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon IPhone 13 Pro Max 128GB Graphite",
+            "quantityPerUnit": "18 - 500 g pkgs.",
+            "unitPrice": 97,
+            "unitsInStock": 29
+        },
+        {
+            "id": 10,
+            "img": "https://texnomart.az/wp-content/uploads/2021/12/texnomart-IPhone-13-Pro-256GB-blue-r63t1e04xbwjk8l5pugo-300x300.jpg",
+            "seoUrl": "telefonlar",
+            "productName": "Smartfon IPhone 11  128GB Gold",
+            "quantityPerUnit": "12 - 200 ml jars",
+            "unitPrice": 31,
+            "unitsInStock": 31
+        },
+        {
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-WW60A4S00CXLP-masfpt873zycklwbej25-300x300.jpg",
+            "id": 11,
+            "seoUrl": "paltaryuyanlar",
+            "productName": "Paltaryuyan LG F4M5VS6",
+            "price": "1000",
+            "quantityPerUnit": "1 kg pkg.",
+            "unitPrice": 21,
+            "unitsInStock": 22
+        },
+        {
+            "id": 12,
+            "price": "1199",
+            "seoUrl": "paltaryuyanlar",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-WW70A4S21EELP-ovaqn308bs759ei1kuzy-300x300.jpg",
+            "productName": "Paltaryuyan Bosch WGA242XVME",
+            "quantityPerUnit": "10 - 500 g pkgs.",
+            "unitPrice": 38,
+            "unitsInStock": 86
+        },
+        {
+            "id": 13,
+            "price": "1200",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-WD70T4047CELP-8kzot20r6pghux1b5vqf-300x300.jpg",
+            "seoUrl": "paltaryuyanlar",
+            "productName": " Paltaryuyan LG F2V5HS9B",
+            "quantityPerUnit": "2 kg box",
+            "unitPrice": 6,
+            "unitsInStock": 24
+        },
+        {
+            "id": 14,
+            "price": "2000",
+            "seoUrl": "paltaryuyanlar",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-WW70A4S21EELP-ovaqn308bs759ei1kuzy-300x300.jpg",
+            "productName": "Paltaryuyan LG F2V5HS0W",
+            "quantityPerUnit": "40 - 100 g pkgs.",
+            "unitPrice": 23.25,
+            "unitsInStock": 35
+        },
+        {
+            "id": 15,
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Samsung-WD80T554CBXLP-03vz9146atk2osqj8n5l-300x300.jpg",
+            "price": "3000",
+            "seoUrl": "paltaryuyanlar",
+            "productName": "Paltaryuyan Samsung WD80T554CBX/LP",
+            "quantityPerUnit": "24 - 250 ml bottles",
+            "unitPrice": 15.5,
+            "unitsInStock": 39
+        },
+        {
+            "id": 16,
+            "price": "1300",
+            "seoUrl": "paltaryuyanlar",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-BOSCH-WGA242XVME-txugi1woercfsjap64nk-300x300.jpg",
+            "productName": "Paltaryuyan Samsung WW80AAS21TELP",
+            "quantityPerUnit": "32 - 500 g boxes",
+            "unitPrice": 17.45,
+            "unitsInStock": 29
+        },
+        {
+            "id": 17,
+            "price": "999",
+            "seoUrl": "paltaryuyanlar",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-LG-F2V5HS9B-1bkpe675sainfo93wl8v-300x300.jpg",
+            "productName": "Paltaryuyan Samsung WW70A5S20KXLP",
+            "quantityPerUnit": "20 - 1 kg tins",
+            "unitPrice": 39,
+            "unitsInStock": 0
+        },
+        {
+            "id": 18,
+            "seoUrl": "paltaryuyanlar",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-LG-F2V5HS0W-oa26r493ve18bsiz0kpt-300x300.jpg",
+            "productName": " Paltaryuyan Samsung WW90T554CAXLP",
+            "price": "1000",
+            "quantityPerUnit": "16 kg pkg.",
+            "unitPrice": 62.5,
+            "unitsInStock": 42
+        },
+        {
+            "id": 19,
+            "seoUrl": "paltaryuyanlar",
+            "productName": "Paltaryuyan Samsung EWWYW1432WYW",
+            "price": "788",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-LG-F4M5VS6S-gzaf02qix5vymsr1c3jk-300x300.jpg",
+            "quantityPerUnit": "10 boxes x 12 pieces",
+            "unitPrice": 9.2,
+            "unitsInStock": 25
+        },
+        {
+            "id": 20,
+            "price":"449",
+            "img":"https://texnomart.az/wp-content/uploads/2022/03/texnomart-Artel-UA32H4101-wv5bqlyfegntos8a603r-300x300.jpg",
+            "seoUrl": "televizorlar",
+            "productName": "Televizor Artel UA32H4101",
+            "quantityPerUnit": "24 - 500 g pkgs.",
+            "unitPrice": 21,
+            "unitsInStock": 104
+        },
+        {
+            "id": 21,
+            "price":"459",
+            "seoUrl": "televizorlar",
+            "productName": "Televizor Artel UA32H1200 Purple",
+            "img":" https://texnomart.az/wp-content/uploads/2022/03/texnomart-Artel-UA32H1200-purple-0jz7bgsyo8uwt6evp9na-600x600.jpg",
+            "quantityPerUnit": "12 - 250 g pkgs.",
+            "unitPrice": 9,
+            "unitsInStock": 61
+        },
+        {
+            "id": 22,
+            "price":"459",
+            "seoUrl": "televizorlar",
+            "productName": "Televizor Artel UA32H1200 Gold",
+            "img": "https://texnomart.az/wp-content/uploads/2022/03/texnomart-Artel-UA32H1200-Gold-34ikc9qxa80ulyzw7n2f-300x300.jpg",
+            "quantityPerUnit": "12 - 355 ml cans",
+            "unitPrice": 4.5,
+            "unitsInStock": 20
+        },
+        {
+            "id": 23,
+            "price":"1659",
+            "seoUrl": "televizorlar",
+            "img":"https://texnomart.az/wp-content/uploads/2022/03/texnomart-Artel-A55KU5500-8rj5uk1g9pxya2m6c03e-300x300.jpg",
+            "productName":"Televizor Artel A55KU5500",
+            "quantityPerUnit": "20 - 450 g glasses",
+            "unitPrice": 14,
+            "unitsInStock": 76
+        },
+        {
+            "id": 24,
+            "price":"1659",
+            "seoUrl": "televizorlar",
+            "img":"https://texnomart.az/wp-content/uploads/2022/01/texnomart-Samsung-UE43AU9000UXRU-et8iy5zsk0bo7crxpjl2-300x300.jpg",
+            "productName": "Televizor Samsung UE43AU9000UXRU",
+      
+            "quantityPerUnit": "100 - 250 g bags",
+            "unitPrice": 31.23,
+            "unitsInStock": 15
+        }
+      
+        
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Paltaryuyanlar",
+            "seoUrl": "paltaryuyanlar"
+        },
+        {
+            "id": 3,
+            "categoryName":"Televizorlar",
+            "seoUrl": "televizorlar"
+        },
+      
+        {
+            "id": 6,
+            "categoryName": "Telefonlar",
+            "seoUrl": "telefonlar"
+        }
+       
+    ]
+    
+}
